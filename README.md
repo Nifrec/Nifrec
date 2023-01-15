@@ -4,9 +4,12 @@ whose main academic interests are AI, computer science and mathematics.
 But also philosophy, biology, psychology and palaeontology (i.e. fossils) deeply interest me.
 
 My first & main programming language is **Python** (along with its libraries Numpy and PyTorch),
-also used Java, Ltac2 (see [Coq](https://coq.inria.fr/),
-C and JavaScript.
-Currently in the process of learning **Haskell**.
+I have also used:
+* Java
+* Ltac2 (see [Coq](https://coq.inria.fr/)),
+* C
+* JavaScript (😖)
+* Currently in the process of learning **Haskell**, I like static typing!
 
 Favourite tools:
 * Manjaro Linux (OS)
